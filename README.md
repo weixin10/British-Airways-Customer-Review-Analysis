@@ -6,4 +6,4 @@ This Python script is written to collect customer feedback through data scraping
 This project is the first task of the British Airways Data Science virtual experience programme.
 
 ## Report
-A high-level powerpoint deck summarising the analysis can be found in the Reports folder.
+A high-level slide deck summarising the analysis can be found in the Reports folder.
